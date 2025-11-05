@@ -10,6 +10,10 @@ body {
     padding-top: 15vh;
 }
 
+html{
+    font-size: 32px;
+}
+
 
 /* ===== TOP HEADER ===== */
 .top-header {
@@ -669,7 +673,6 @@ body {
 .flag-icon {
     width: 1.5rem;
     height: 1rem;
-    border: 0.0625rem solid rgba(255, 255, 255, 0.3);
 }
 
 .stores-dropdown {
